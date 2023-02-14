@@ -1,6 +1,6 @@
 
 
-import { Navbar } from './components/Navbar';
+import  { Navbar }  from './components/Navbar';
 import { Hero } from './components/Hero';
 import { Instalacion } from './components/Instalacion';
 import { Chackra } from './Components/Chackra';
