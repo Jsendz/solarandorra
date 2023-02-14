@@ -66,7 +66,7 @@ export const Chackra = () => {
 </Card>
 
    </div>
-   <div className="py-4 xl:py-0 lg:w-[90%]">
+   <div className="py-4 xl:py-0">
    <Card maxW='sm'  boxShadow='2xl'>
   <CardBody>
     <Image
